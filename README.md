@@ -6,20 +6,20 @@ You can open the pdf provided to view the detailed report.
 ## Project Images
 
 ### Image 1
-![Image 1](./images/image1.jpg)
+![Image 1](./images/image1.png)
 
 ### Image 2
-![Image 2](./images/image2.jpg)
+![Image 2](./images/image2.png)
 
 ### Image 3
-![Image 3](./images/image3.jpg)
+![Image 3](./images/image3.png)
 
 ### Image 4
-![Image 4](./images/image4.jpg)
+![Image 4](./images/image4.png)
 
 ### Image 5
-![Image 5](./images/image5.jpg)
+![Image 5](./images/image5.png)
 
 ### Image 6
-![Image 6](./images/image6.jpg)
+![Image 6](./images/image6.png)
 
